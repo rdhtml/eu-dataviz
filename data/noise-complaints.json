@@ -1,0 +1,3038 @@
+[
+    {
+        "year": "1997",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "535",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "218350",
+                "year": "1997"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "200",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "226990",
+                "year": "1997"
+            },
+            {
+                "council": "Angus",
+                "complaints": "232",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "110570",
+                "year": "1997"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "103",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "91740",
+                "year": "1997"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1076",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "444910",
+                "year": "1997"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "72",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "48560",
+                "year": "1997"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "119",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "148520",
+                "year": "1997"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "453",
+                "complaints_per_1000": "3",
+                "formal_action_cases": "-",
+                "population": "152200",
+                "year": "1997"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "83",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "122000",
+                "year": "1997"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "165",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "109300",
+                "year": "1997"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "124",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "-",
+                "population": "86990",
+                "year": "1997"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "184",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "87410",
+                "year": "1997"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "254",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "143040",
+                "year": "1997"
+            },
+            {
+                "council": "Fife",
+                "complaints": "705",
+                "complaints_per_1000": "2",
+                "formal_action_cases": "-",
+                "population": "347430",
+                "year": "1997"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1394",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "598840",
+                "year": "1997"
+            },
+            {
+                "council": "Highland",
+                "complaints": "230",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "208650",
+                "year": "1997"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "116",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "-",
+                "population": "87060",
+                "year": "1997"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "181",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "78960",
+                "year": "1997"
+            },
+            {
+                "council": "Moray",
+                "complaints": "103",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "-",
+                "population": "87430",
+                "year": "1997"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "201",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "137610",
+                "year": "1997"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "232",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "322300",
+                "year": "1997"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "11",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "-",
+                "population": "19730",
+                "year": "1997"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "291",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "-",
+                "population": "133130",
+                "year": "1997"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "444",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "176390",
+                "year": "1997"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "111",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "105860",
+                "year": "1997"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "23",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "22860",
+                "year": "1997"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "117",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "113540",
+                "year": "1997"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "657",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "-",
+                "population": "304760",
+                "year": "1997"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "243",
+                "complaints_per_1000": "2.9",
+                "formal_action_cases": "-",
+                "population": "83060",
+                "year": "1997"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "147",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "95320",
+                "year": "1997"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "264",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "150080",
+                "year": "1997"
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "507",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "11",
+                "population": "217300",
+                "year": "1998"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "256",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "6",
+                "population": "226020",
+                "year": "1998"
+            },
+            {
+                "council": "Angus",
+                "complaints": "213",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "3",
+                "population": "110000",
+                "year": "1998"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "134",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "1",
+                "population": "91720",
+                "year": "1998"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1790",
+                "complaints_per_1000": "4",
+                "formal_action_cases": "41",
+                "population": "445720",
+                "year": "1998"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "89",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "0",
+                "population": "48560",
+                "year": "1998"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "117",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "0",
+                "population": "148520",
+                "year": "1998"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "396",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "4",
+                "population": "151350",
+                "year": "1998"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "74",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "3",
+                "population": "121440",
+                "year": "1998"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "204",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "4",
+                "population": "109280",
+                "year": "1998"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "191",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "3",
+                "population": "87730",
+                "year": "1998"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "128",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "17",
+                "population": "87890",
+                "year": "1998"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "253",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "3",
+                "population": "143340",
+                "year": "1998"
+            },
+            {
+                "council": "Fife",
+                "complaints": "918",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "2",
+                "population": "346540",
+                "year": "1998"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1377",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "28",
+                "population": "590660",
+                "year": "1998"
+            },
+            {
+                "council": "Highland",
+                "complaints": "281",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "8",
+                "population": "208560",
+                "year": "1998"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "140",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "12",
+                "population": "86460",
+                "year": "1998"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "121",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "23",
+                "population": "79550",
+                "year": "1998"
+            },
+            {
+                "council": "Moray",
+                "complaints": "73",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "0",
+                "population": "87160",
+                "year": "1998"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "351",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "16",
+                "population": "137690",
+                "year": "1998"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "406",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "1",
+                "population": "322510",
+                "year": "1998"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "7",
+                "complaints_per_1000": "0.4",
+                "formal_action_cases": "1",
+                "population": "19770",
+                "year": "1998"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "258",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "1",
+                "population": "133980",
+                "year": "1998"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "432",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "5",
+                "population": "175800",
+                "year": "1998"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "155",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "1",
+                "population": "105960",
+                "year": "1998"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "24",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "0",
+                "population": "22830",
+                "year": "1998"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "194",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "7",
+                "population": "113620",
+                "year": "1998"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "702",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "9",
+                "population": "304440",
+                "year": "1998"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "214",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "1",
+                "population": "84050",
+                "year": "1998"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "169",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "2",
+                "population": "95200",
+                "year": "1998"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "260",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "1",
+                "population": "151780",
+                "year": "1998"
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "618",
+                "complaints_per_1000": "2.9",
+                "formal_action_cases": "43",
+                "population": "215650",
+                "year": "1999"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "203",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "0",
+                "population": "226220",
+                "year": "1999"
+            },
+            {
+                "council": "Angus",
+                "complaints": "132",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "2",
+                "population": "109790",
+                "year": "1999"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "171",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "7",
+                "population": "91670",
+                "year": "1999"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1601",
+                "complaints_per_1000": "3.6",
+                "formal_action_cases": "38",
+                "population": "446240",
+                "year": "1999"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "57",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "0",
+                "population": "48410",
+                "year": "1999"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "91",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "0",
+                "population": "148740",
+                "year": "1999"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "346",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "3",
+                "population": "149680",
+                "year": "1999"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "47",
+                "complaints_per_1000": "0.4",
+                "formal_action_cases": "0",
+                "population": "121000",
+                "year": "1999"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "156",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "0",
+                "population": "109040",
+                "year": "1999"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "106",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "3",
+                "population": "88360",
+                "year": "1999"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "116",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "3",
+                "population": "88310",
+                "year": "1999"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "337",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "8",
+                "population": "143880",
+                "year": "1999"
+            },
+            {
+                "council": "Fife",
+                "complaints": "916",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "0",
+                "population": "346540",
+                "year": "1999"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1751",
+                "complaints_per_1000": "3",
+                "formal_action_cases": "56",
+                "population": "587050",
+                "year": "1999"
+            },
+            {
+                "council": "Highland",
+                "complaints": "220",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "0",
+                "population": "208850",
+                "year": "1999"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "97",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "12",
+                "population": "85840",
+                "year": "1999"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "111",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "0",
+                "population": "80120",
+                "year": "1999"
+            },
+            {
+                "council": "Moray",
+                "complaints": "57",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "0",
+                "population": "86800",
+                "year": "1999"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "266",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "9",
+                "population": "137470",
+                "year": "1999"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "377",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "2",
+                "population": "322180",
+                "year": "1999"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "3",
+                "complaints_per_1000": "0.2",
+                "formal_action_cases": "0",
+                "population": "19590",
+                "year": "1999"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "256",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "0",
+                "population": "134580",
+                "year": "1999"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "503",
+                "complaints_per_1000": "2.9",
+                "formal_action_cases": "13",
+                "population": "175320",
+                "year": "1999"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "160",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "0",
+                "population": "106040",
+                "year": "1999"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "32",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "3",
+                "population": "22700",
+                "year": "1999"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "179",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "10",
+                "population": "113320",
+                "year": "1999"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "719",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "9",
+                "population": "303330",
+                "year": "1999"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "130",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "1",
+                "population": "84680",
+                "year": "1999"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "198",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "0",
+                "population": "94930",
+                "year": "1999"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "297",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "0",
+                "population": "153200",
+                "year": "1999"
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "630",
+                "complaints_per_1000": "2.9",
+                "formal_action_cases": "15",
+                "population": "214630",
+                "year": "2000"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "354",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "1",
+                "population": "227240",
+                "year": "2000"
+            },
+            {
+                "council": "Angus",
+                "complaints": "139",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "0",
+                "population": "109560",
+                "year": "2000"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "133",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "0",
+                "population": "91640",
+                "year": "2000"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1608",
+                "complaints_per_1000": "3.6",
+                "formal_action_cases": "18",
+                "population": "447190",
+                "year": "2000"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "42",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "0",
+                "population": "48240",
+                "year": "2000"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "74",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "0",
+                "population": "148230",
+                "year": "2000"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "401",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "1",
+                "population": "147970",
+                "year": "2000"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "48",
+                "complaints_per_1000": "0.4",
+                "formal_action_cases": "0",
+                "population": "120550",
+                "year": "2000"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "137",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "4",
+                "population": "108670",
+                "year": "2000"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "165",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "1",
+                "population": "89110",
+                "year": "2000"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "85",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "3",
+                "population": "88520",
+                "year": "2000"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "248",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "10",
+                "population": "144570",
+                "year": "2000"
+            },
+            {
+                "council": "Fife",
+                "complaints": "807",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "0",
+                "population": "347030",
+                "year": "2000"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1403",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "15",
+                "population": "582950",
+                "year": "2000"
+            },
+            {
+                "council": "Highland",
+                "complaints": "204",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "1",
+                "population": "209200",
+                "year": "2000"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "117",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "1",
+                "population": "85300",
+                "year": "2000"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "76",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "0",
+                "population": "80630",
+                "year": "2000"
+            },
+            {
+                "council": "Moray",
+                "complaints": "89",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "1",
+                "population": "86800",
+                "year": "2000"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "264",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "7",
+                "population": "137160",
+                "year": "2000"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "473",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "12",
+                "population": "322160",
+                "year": "2000"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "7",
+                "complaints_per_1000": "0.4",
+                "formal_action_cases": "0",
+                "population": "19420",
+                "year": "2000"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "238",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "0",
+                "population": "135200",
+                "year": "2000"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "489",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "14",
+                "population": "174390",
+                "year": "2000"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "145",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "0",
+                "population": "105810",
+                "year": "2000"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "17",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "0",
+                "population": "22510",
+                "year": "2000"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "214",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "5",
+                "population": "112850",
+                "year": "2000"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "656",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "2",
+                "population": "302580",
+                "year": "2000"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "170",
+                "complaints_per_1000": "2",
+                "formal_action_cases": "0",
+                "population": "85450",
+                "year": "2000"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "239",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "0",
+                "population": "94420",
+                "year": "2000"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "379",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "9",
+                "population": "154760",
+                "year": "2000"
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "588",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "1",
+                "population": "213340",
+                "year": "2001"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "264",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "0",
+                "population": "227020",
+                "year": "2001"
+            },
+            {
+                "council": "Angus",
+                "complaints": "198",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "0",
+                "population": "108850",
+                "year": "2001"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "139",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "0",
+                "population": "91050",
+                "year": "2001"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1762",
+                "complaints_per_1000": "3.9",
+                "formal_action_cases": "68",
+                "population": "448430",
+                "year": "2001"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "33",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "0",
+                "population": "48170",
+                "year": "2001"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "87",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "0",
+                "population": "147540",
+                "year": "2001"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "411",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "3",
+                "population": "146610",
+                "year": "2001"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "56",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "3",
+                "population": "120120",
+                "year": "2001"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "151",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "1",
+                "population": "108620",
+                "year": "2001"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "173",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "1",
+                "population": "89910",
+                "year": "2001"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "59",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "6",
+                "population": "89040",
+                "year": "2001"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "328",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "7",
+                "population": "144650",
+                "year": "2001"
+            },
+            {
+                "council": "Fife",
+                "complaints": "694",
+                "complaints_per_1000": "2",
+                "formal_action_cases": "3",
+                "population": "348340",
+                "year": "2001"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1397",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "33",
+                "population": "577020",
+                "year": "2001"
+            },
+            {
+                "council": "Highland",
+                "complaints": "170",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "1",
+                "population": "209130",
+                "year": "2001"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "133",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "9",
+                "population": "84660",
+                "year": "2001"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "64",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "1",
+                "population": "81110",
+                "year": "2001"
+            },
+            {
+                "council": "Moray",
+                "complaints": "42",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "0",
+                "population": "86720",
+                "year": "2001"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "291",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "8",
+                "population": "136360",
+                "year": "2001"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "431",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "0",
+                "population": "321390",
+                "year": "2001"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "7",
+                "complaints_per_1000": "0.4",
+                "formal_action_cases": "0",
+                "population": "19290",
+                "year": "2001"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "185",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "0",
+                "population": "134970",
+                "year": "2001"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "461",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "12",
+                "population": "173680",
+                "year": "2001"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "124",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "0",
+                "population": "106250",
+                "year": "2001"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "2",
+                "complaints_per_1000": "0.1",
+                "formal_action_cases": "0",
+                "population": "22180",
+                "year": "2001"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "222",
+                "complaints_per_1000": "2",
+                "formal_action_cases": "11",
+                "population": "112290",
+                "year": "2001"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "534",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "5",
+                "population": "302270",
+                "year": "2001"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "145",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "3",
+                "population": "86160",
+                "year": "2001"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "192",
+                "complaints_per_1000": "2",
+                "formal_action_cases": "0",
+                "population": "93930",
+                "year": "2001"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "325",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "5",
+                "population": "157050",
+                "year": "2001"
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "532",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "211910",
+                "year": "2002"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "289",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "-",
+                "population": "226940",
+                "year": "2002"
+            },
+            {
+                "council": "Angus",
+                "complaints": "231",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "108370",
+                "year": "2002"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "83",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "91300",
+                "year": "2002"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1639",
+                "complaints_per_1000": "3.7",
+                "formal_action_cases": "-",
+                "population": "449020",
+                "year": "2002"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "39",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "48070",
+                "year": "2002"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "104",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "147780",
+                "year": "2002"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "355",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "145460",
+                "year": "2002"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "66",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "120310",
+                "year": "2002"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "91",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "108250",
+                "year": "2002"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "149",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "90180",
+                "year": "2002"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "101",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "89410",
+                "year": "2002"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "271",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "145270",
+                "year": "2002"
+            },
+            {
+                "council": "Fife",
+                "complaints": "643",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "349770",
+                "year": "2002"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1270",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "-",
+                "population": "578710",
+                "year": "2002"
+            },
+            {
+                "council": "Highland",
+                "complaints": "174",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "208920",
+                "year": "2002"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "72",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "84150",
+                "year": "2002"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "53",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "80950",
+                "year": "2002"
+            },
+            {
+                "council": "Moray",
+                "complaints": "72",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "87000",
+                "year": "2002"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "254",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "135820",
+                "year": "2002"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "288",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "321180",
+                "year": "2002"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "0",
+                "complaints_per_1000": "0",
+                "formal_action_cases": "-",
+                "population": "19220",
+                "year": "2002"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "250",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "134950",
+                "year": "2002"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "436",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "172850",
+                "year": "2002"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "160",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "106950",
+                "year": "2002"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "13",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "-",
+                "population": "21960",
+                "year": "2002"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "257",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "112160",
+                "year": "2002"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "566",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "302340",
+                "year": "2002"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "139",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "86200",
+                "year": "2002"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "155",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "93320",
+                "year": "2002"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "402",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "159030",
+                "year": "2002"
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "588",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "-",
+                "population": "210680",
+                "year": "2003"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "352",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "228830",
+                "year": "2003"
+            },
+            {
+                "council": "Angus",
+                "complaints": "195",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "108810",
+                "year": "2003"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "63",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "91020",
+                "year": "2003"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1814",
+                "complaints_per_1000": "4",
+                "formal_action_cases": "-",
+                "population": "447500",
+                "year": "2003"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "23",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "48140",
+                "year": "2003"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "77",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "147670",
+                "year": "2003"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "367",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "144370",
+                "year": "2003"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "92",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "119920",
+                "year": "2003"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "86",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "107350",
+                "year": "2003"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "117",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "-",
+                "population": "91060",
+                "year": "2003"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "96",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "89930",
+                "year": "2003"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "302",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "145920",
+                "year": "2003"
+            },
+            {
+                "council": "Fife",
+                "complaints": "662",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "350740",
+                "year": "2003"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1357",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "576450",
+                "year": "2003"
+            },
+            {
+                "council": "Highland",
+                "complaints": "173",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "209760",
+                "year": "2003"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "82",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "83730",
+                "year": "2003"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "60",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "80880",
+                "year": "2003"
+            },
+            {
+                "council": "Moray",
+                "complaints": "61",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "87690",
+                "year": "2003"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "237",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "135890",
+                "year": "2003"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "225",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "322520",
+                "year": "2003"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "29",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "19330",
+                "year": "2003"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "350",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "-",
+                "population": "135130",
+                "year": "2003"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "453",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "-",
+                "population": "172300",
+                "year": "2003"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "168",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "107530",
+                "year": "2003"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "10",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "22000",
+                "year": "2003"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "266",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "111690",
+                "year": "2003"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "514",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "302770",
+                "year": "2003"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "122",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "-",
+                "population": "86630",
+                "year": "2003"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "132",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "-",
+                "population": "93040",
+                "year": "2003"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "378",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "160370",
+                "year": "2003"
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "667",
+                "complaints_per_1000": "3.2",
+                "formal_action_cases": "-",
+                "population": "209280",
+                "year": "2004"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "321",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "-",
+                "population": "231250",
+                "year": "2004"
+            },
+            {
+                "council": "Angus",
+                "complaints": "176",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "108700",
+                "year": "2004"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "88",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "90930",
+                "year": "2004"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "1825",
+                "complaints_per_1000": "4.1",
+                "formal_action_cases": "-",
+                "population": "445300",
+                "year": "2004"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "47",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "48140",
+                "year": "2004"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "124",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "147860",
+                "year": "2004"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "462",
+                "complaints_per_1000": "3.2",
+                "formal_action_cases": "-",
+                "population": "144080",
+                "year": "2004"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "90",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "119850",
+                "year": "2004"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "120",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "107000",
+                "year": "2004"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "159",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "91640",
+                "year": "2004"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "67",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "89870",
+                "year": "2004"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "357",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "146800",
+                "year": "2004"
+            },
+            {
+                "council": "Fife",
+                "complaints": "548",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "351360",
+                "year": "2004"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "1586",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "-",
+                "population": "572270",
+                "year": "2004"
+            },
+            {
+                "council": "Highland",
+                "complaints": "158",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "211640",
+                "year": "2004"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "132",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "83300",
+                "year": "2004"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "79",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "80280",
+                "year": "2004"
+            },
+            {
+                "council": "Moray",
+                "complaints": "74",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "88830",
+                "year": "2004"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "290",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "136310",
+                "year": "2004"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "507",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "323700",
+                "year": "2004"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "27",
+                "complaints_per_1000": "1.4",
+                "formal_action_cases": "-",
+                "population": "19540",
+                "year": "2004"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "340",
+                "complaints_per_1000": "2.5",
+                "formal_action_cases": "-",
+                "population": "135960",
+                "year": "2004"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "476",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "-",
+                "population": "171560",
+                "year": "2004"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "117",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "108390",
+                "year": "2004"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "14",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "-",
+                "population": "21950",
+                "year": "2004"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "256",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "111550",
+                "year": "2004"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "642",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "303480",
+                "year": "2004"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "96",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "87090",
+                "year": "2004"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "165",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "92470",
+                "year": "2004"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "297",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "161690",
+                "year": "2004"
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "553",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "-",
+                "population": "207820",
+                "year": "2005"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "395",
+                "complaints_per_1000": "1.7",
+                "formal_action_cases": "-",
+                "population": "234690",
+                "year": "2005"
+            },
+            {
+                "council": "Angus",
+                "complaints": "120",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "110170",
+                "year": "2005"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "71",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "90580",
+                "year": "2005"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "2451",
+                "complaints_per_1000": "5.4",
+                "formal_action_cases": "-",
+                "population": "445870",
+                "year": "2005"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "48",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "48680",
+                "year": "2005"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "115",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "148700",
+                "year": "2005"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "504",
+                "complaints_per_1000": "3.5",
+                "formal_action_cases": "-",
+                "population": "143100",
+                "year": "2005"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "99",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "120210",
+                "year": "2005"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "133",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "-",
+                "population": "106540",
+                "year": "2005"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "113",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "-",
+                "population": "92170",
+                "year": "2005"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "44",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "89790",
+                "year": "2005"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "358",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "148300",
+                "year": "2005"
+            },
+            {
+                "council": "Fife",
+                "complaints": "776",
+                "complaints_per_1000": "2.2",
+                "formal_action_cases": "-",
+                "population": "353050",
+                "year": "2005"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "2259",
+                "complaints_per_1000": "3.9",
+                "formal_action_cases": "-",
+                "population": "569560",
+                "year": "2005"
+            },
+            {
+                "council": "Highland",
+                "complaints": "136",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "-",
+                "population": "214560",
+                "year": "2005"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "145",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "82690",
+                "year": "2005"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "40",
+                "complaints_per_1000": "0.5",
+                "formal_action_cases": "-",
+                "population": "80230",
+                "year": "2005"
+            },
+            {
+                "council": "Moray",
+                "complaints": "63",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "89380",
+                "year": "2005"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "353",
+                "complaints_per_1000": "2.6",
+                "formal_action_cases": "-",
+                "population": "136500",
+                "year": "2005"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "399",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "-",
+                "population": "325400",
+                "year": "2005"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "25",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "-",
+                "population": "19830",
+                "year": "2005"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "250",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "136900",
+                "year": "2005"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "390",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "171470",
+                "year": "2005"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "124",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "109450",
+                "year": "2005"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "71",
+                "complaints_per_1000": "3.2",
+                "formal_action_cases": "-",
+                "population": "22090",
+                "year": "2005"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "234",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "111840",
+                "year": "2005"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "633",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "305660",
+                "year": "2005"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "70",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "86920",
+                "year": "2005"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "107",
+                "complaints_per_1000": "1.2",
+                "formal_action_cases": "-",
+                "population": "91960",
+                "year": "2005"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "442",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "-",
+                "population": "163540",
+                "year": "2005"
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": "2273",
+                "complaints_per_1000": "11",
+                "formal_action_cases": "-",
+                "population": "208690",
+                "year": "2006"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": "432",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "237570",
+                "year": "2006"
+            },
+            {
+                "council": "Angus",
+                "complaints": "102",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "111340",
+                "year": "2006"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": "166",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "90340",
+                "year": "2006"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": "11512",
+                "complaints_per_1000": "25.1",
+                "formal_action_cases": "-",
+                "population": "449470",
+                "year": "2006"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": "39",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "49160",
+                "year": "2006"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": "108",
+                "complaints_per_1000": "0.7",
+                "formal_action_cases": "-",
+                "population": "149620",
+                "year": "2006"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": "511",
+                "complaints_per_1000": "3.6",
+                "formal_action_cases": "-",
+                "population": "143600",
+                "year": "2006"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": "386",
+                "complaints_per_1000": "3.2",
+                "formal_action_cases": "-",
+                "population": "120280",
+                "year": "2006"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": "112",
+                "complaints_per_1000": "1.1",
+                "formal_action_cases": "-",
+                "population": "106040",
+                "year": "2006"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": "337",
+                "complaints_per_1000": "3.7",
+                "formal_action_cases": "-",
+                "population": "92730",
+                "year": "2006"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": "94",
+                "complaints_per_1000": "1",
+                "formal_action_cases": "-",
+                "population": "89880",
+                "year": "2006"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": "397",
+                "complaints_per_1000": "2.7",
+                "formal_action_cases": "-",
+                "population": "150130",
+                "year": "2006"
+            },
+            {
+                "council": "Fife",
+                "complaints": "860",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "355460",
+                "year": "2006"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": "5294",
+                "complaints_per_1000": "9.1",
+                "formal_action_cases": "-",
+                "population": "569250",
+                "year": "2006"
+            },
+            {
+                "council": "Highland",
+                "complaints": "125",
+                "complaints_per_1000": "0.6",
+                "formal_action_cases": "-",
+                "population": "218060",
+                "year": "2006"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": "127",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "82680",
+                "year": "2006"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": "63",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "80050",
+                "year": "2006"
+            },
+            {
+                "council": "Moray",
+                "complaints": "68",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "90100",
+                "year": "2006"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": "550",
+                "complaints_per_1000": "4",
+                "formal_action_cases": "-",
+                "population": "136690",
+                "year": "2006"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": "934",
+                "complaints_per_1000": "2.9",
+                "formal_action_cases": "-",
+                "population": "327140",
+                "year": "2006"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": "25",
+                "complaints_per_1000": "1.3",
+                "formal_action_cases": "-",
+                "population": "20070",
+                "year": "2006"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": "317",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "138060",
+                "year": "2006"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": "355",
+                "complaints_per_1000": "2.1",
+                "formal_action_cases": "-",
+                "population": "171430",
+                "year": "2006"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": "170",
+                "complaints_per_1000": "1.5",
+                "formal_action_cases": "-",
+                "population": "110250",
+                "year": "2006"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": "221",
+                "complaints_per_1000": "10",
+                "formal_action_cases": "-",
+                "population": "22250",
+                "year": "2006"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": "311",
+                "complaints_per_1000": "2.8",
+                "formal_action_cases": "-",
+                "population": "112030",
+                "year": "2006"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": "1355",
+                "complaints_per_1000": "4.4",
+                "formal_action_cases": "-",
+                "population": "306850",
+                "year": "2006"
+            },
+            {
+                "council": "Stirling",
+                "complaints": "79",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "87510",
+                "year": "2006"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": "519",
+                "complaints_per_1000": "5.7",
+                "formal_action_cases": "-",
+                "population": "91530",
+                "year": "2006"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": "587",
+                "complaints_per_1000": "3.6",
+                "formal_action_cases": "-",
+                "population": "165010",
+                "year": "2006"
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": " 2910 ",
+                "complaints_per_1000": "14.4",
+                "formal_action_cases": "-",
+                "population": "209630",
+                "year": "2007"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": " 718 ",
+                "complaints_per_1000": "3",
+                "formal_action_cases": "-",
+                "population": "241180",
+                "year": "2007"
+            },
+            {
+                "council": "Angus",
+                "complaints": " 814 ",
+                "complaints_per_1000": "7.5",
+                "formal_action_cases": "-",
+                "population": "112500",
+                "year": "2007"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": " 367 ",
+                "complaints_per_1000": "4",
+                "formal_action_cases": "-",
+                "population": "90860",
+                "year": "2007"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": " 11825 ",
+                "complaints_per_1000": "25.8",
+                "formal_action_cases": "-",
+                "population": "452040",
+                "year": "2007"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": " 369 ",
+                "complaints_per_1000": "7.6",
+                "formal_action_cases": "-",
+                "population": "49540",
+                "year": "2007"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": " 1025 ",
+                "complaints_per_1000": "6.9",
+                "formal_action_cases": "-",
+                "population": "149770",
+                "year": "2007"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": " 3420 ",
+                "complaints_per_1000": "24.1",
+                "formal_action_cases": "-",
+                "population": "143360",
+                "year": "2007"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": " 1238 ",
+                "complaints_per_1000": "10.4",
+                "formal_action_cases": "-",
+                "population": "120440",
+                "year": "2007"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": " 434 ",
+                "complaints_per_1000": "4.1",
+                "formal_action_cases": "-",
+                "population": "105590",
+                "year": "2007"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": " 455 ",
+                "complaints_per_1000": "5",
+                "formal_action_cases": "-",
+                "population": "93850",
+                "year": "2007"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": " 626 ",
+                "complaints_per_1000": "7",
+                "formal_action_cases": "-",
+                "population": "89750",
+                "year": "2007"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": " 736 ",
+                "complaints_per_1000": "4.9",
+                "formal_action_cases": "-",
+                "population": "151090",
+                "year": "2007"
+            },
+            {
+                "council": "Fife",
+                "complaints": " 4767 ",
+                "complaints_per_1000": "13.4",
+                "formal_action_cases": "-",
+                "population": "357260",
+                "year": "2007"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": " 10512 ",
+                "complaints_per_1000": "18.2",
+                "formal_action_cases": "-",
+                "population": "568460",
+                "year": "2007"
+            },
+            {
+                "council": "Highland",
+                "complaints": " 178 ",
+                "complaints_per_1000": "0.8",
+                "formal_action_cases": "-",
+                "population": "220780",
+                "year": "2007"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": " 300 ",
+                "complaints_per_1000": "3.7",
+                "formal_action_cases": "-",
+                "population": "82320",
+                "year": "2007"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": " 187 ",
+                "complaints_per_1000": "2.4",
+                "formal_action_cases": "-",
+                "population": "79990",
+                "year": "2007"
+            },
+            {
+                "council": "Moray",
+                "complaints": " 306 ",
+                "complaints_per_1000": "3.5",
+                "formal_action_cases": "-",
+                "population": "90780",
+                "year": "2007"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": " 1444 ",
+                "complaints_per_1000": "10.6",
+                "formal_action_cases": "-",
+                "population": "136790",
+                "year": "2007"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": " 1165 ",
+                "complaints_per_1000": "3.6",
+                "formal_action_cases": "-",
+                "population": "328740",
+                "year": "2007"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": " 31 ",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "20340",
+                "year": "2007"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": " 1497 ",
+                "complaints_per_1000": "10.8",
+                "formal_action_cases": "-",
+                "population": "139380",
+                "year": "2007"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": " 742 ",
+                "complaints_per_1000": "4.4",
+                "formal_action_cases": "-",
+                "population": "171270",
+                "year": "2007"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": " 213 ",
+                "complaints_per_1000": "1.9",
+                "formal_action_cases": "-",
+                "population": "110860",
+                "year": "2007"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": " 317 ",
+                "complaints_per_1000": "14.4",
+                "formal_action_cases": "-",
+                "population": "22210",
+                "year": "2007"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": " 960 ",
+                "complaints_per_1000": "8.6",
+                "formal_action_cases": "-",
+                "population": "112100",
+                "year": "2007"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": " 2327 ",
+                "complaints_per_1000": "7.6",
+                "formal_action_cases": "-",
+                "population": "308450",
+                "year": "2007"
+            },
+            {
+                "council": "Stirling",
+                "complaints": " 296 ",
+                "complaints_per_1000": "3.4",
+                "formal_action_cases": "-",
+                "population": "88090",
+                "year": "2007"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": " 931 ",
+                "complaints_per_1000": "10.2",
+                "formal_action_cases": "-",
+                "population": "91410",
+                "year": "2007"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": " 1843 ",
+                "complaints_per_1000": "11.3",
+                "formal_action_cases": "-",
+                "population": "167110",
+                "year": "2007"
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "councils": [
+            {
+                "council": "Aberdeen City",
+                "complaints": " 2780 ",
+                "complaints_per_1000": "13.8",
+                "formal_action_cases": "-",
+                "population": "212470",
+                "year": "2008"
+            },
+            {
+                "council": "Aberdeenshire",
+                "complaints": " 709 ",
+                "complaints_per_1000": "3",
+                "formal_action_cases": "-",
+                "population": "244390",
+                "year": "2008"
+            },
+            {
+                "council": "Angus",
+                "complaints": " 991 ",
+                "complaints_per_1000": "9",
+                "formal_action_cases": "-",
+                "population": "113540",
+                "year": "2008"
+            },
+            {
+                "council": "Argyll and Bute",
+                "complaints": " 143 ",
+                "complaints_per_1000": "1.6",
+                "formal_action_cases": "-",
+                "population": "90790",
+                "year": "2008"
+            },
+            {
+                "council": "City of Edinburgh",
+                "complaints": " 11325 ",
+                "complaints_per_1000": "24.4",
+                "formal_action_cases": "-",
+                "population": "456040",
+                "year": "2008"
+            },
+            {
+                "council": "Clackmannanshire",
+                "complaints": " 342 ",
+                "complaints_per_1000": "7",
+                "formal_action_cases": "-",
+                "population": "50600",
+                "year": "2008"
+            },
+            {
+                "council": "Dumfries and Galloway",
+                "complaints": " 715 ",
+                "complaints_per_1000": "4.8",
+                "formal_action_cases": "-",
+                "population": "150370",
+                "year": "2008"
+            },
+            {
+                "council": "Dundee City",
+                "complaints": " 4289 ",
+                "complaints_per_1000": "30.2",
+                "formal_action_cases": "-",
+                "population": "143700",
+                "year": "2008"
+            },
+            {
+                "council": "East Ayrshire",
+                "complaints": " 905 ",
+                "complaints_per_1000": "7.6",
+                "formal_action_cases": "-",
+                "population": "120950",
+                "year": "2008"
+            },
+            {
+                "council": "East Dunbartonshire",
+                "complaints": " 665 ",
+                "complaints_per_1000": "6.3",
+                "formal_action_cases": "-",
+                "population": "105050",
+                "year": "2008"
+            },
+            {
+                "council": "East Lothian",
+                "complaints": " 491 ",
+                "complaints_per_1000": "5.3",
+                "formal_action_cases": "-",
+                "population": "95570",
+                "year": "2008"
+            },
+            {
+                "council": "East Renfrewshire",
+                "complaints": " 402 ",
+                "complaints_per_1000": "4.5",
+                "formal_action_cases": "-",
+                "population": "89840",
+                "year": "2008"
+            },
+            {
+                "council": "Falkirk",
+                "complaints": " 991 ",
+                "complaints_per_1000": "6.6",
+                "formal_action_cases": "-",
+                "population": "152320",
+                "year": "2008"
+            },
+            {
+                "council": "Fife",
+                "complaints": " 6112 ",
+                "complaints_per_1000": "17",
+                "formal_action_cases": "-",
+                "population": "358740",
+                "year": "2008"
+            },
+            {
+                "council": "Glasgow City",
+                "complaints": " 10659 ",
+                "complaints_per_1000": "18.4",
+                "formal_action_cases": "-",
+                "population": "571760",
+                "year": "2008"
+            },
+            {
+                "council": "Highland",
+                "complaints": " 189 ",
+                "complaints_per_1000": "0.9",
+                "formal_action_cases": "-",
+                "population": "224000",
+                "year": "2008"
+            },
+            {
+                "council": "Inverclyde",
+                "complaints": " 252 ",
+                "complaints_per_1000": "3.1",
+                "formal_action_cases": "-",
+                "population": "82110",
+                "year": "2008"
+            },
+            {
+                "council": "Midlothian",
+                "complaints": " 419 ",
+                "complaints_per_1000": "5.3",
+                "formal_action_cases": "-",
+                "population": "80370",
+                "year": "2008"
+            },
+            {
+                "council": "Moray",
+                "complaints": " 207 ",
+                "complaints_per_1000": "2.3",
+                "formal_action_cases": "-",
+                "population": "91440",
+                "year": "2008"
+            },
+            {
+                "council": "North Ayrshire",
+                "complaints": " 1266 ",
+                "complaints_per_1000": "9.3",
+                "formal_action_cases": "-",
+                "population": "137420",
+                "year": "2008"
+            },
+            {
+                "council": "North Lanarkshire",
+                "complaints": " 1022 ",
+                "complaints_per_1000": "3.2",
+                "formal_action_cases": "-",
+                "population": "331160",
+                "year": "2008"
+            },
+            {
+                "council": "Orkney Islands",
+                "complaints": " 36 ",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "20580",
+                "year": "2008"
+            },
+            {
+                "council": "Perth and Kinross",
+                "complaints": " 2109 ",
+                "complaints_per_1000": "15.1",
+                "formal_action_cases": "-",
+                "population": "141140",
+                "year": "2008"
+            },
+            {
+                "council": "Renfrewshire",
+                "complaints": " 1445 ",
+                "complaints_per_1000": "8.5",
+                "formal_action_cases": "-",
+                "population": "171870",
+                "year": "2008"
+            },
+            {
+                "council": "Scottish Borders",
+                "complaints": " 201 ",
+                "complaints_per_1000": "1.8",
+                "formal_action_cases": "-",
+                "population": "112200",
+                "year": "2008"
+            },
+            {
+                "council": "Shetland Islands",
+                "complaints": " 236 ",
+                "complaints_per_1000": "10.8",
+                "formal_action_cases": "-",
+                "population": "22350",
+                "year": "2008"
+            },
+            {
+                "council": "South Ayrshire",
+                "complaints": " 1212 ",
+                "complaints_per_1000": "10.9",
+                "formal_action_cases": "-",
+                "population": "112380",
+                "year": "2008"
+            },
+            {
+                "council": "South Lanarkshire",
+                "complaints": " 2169 ",
+                "complaints_per_1000": "7",
+                "formal_action_cases": "-",
+                "population": "310370",
+                "year": "2008"
+            },
+            {
+                "council": "Stirling",
+                "complaints": " 274 ",
+                "complaints_per_1000": "3.1",
+                "formal_action_cases": "-",
+                "population": "88430",
+                "year": "2008"
+            },
+            {
+                "council": "West Dunbartonshire",
+                "complaints": " 713 ",
+                "complaints_per_1000": "7.8",
+                "formal_action_cases": "-",
+                "population": "91370",
+                "year": "2008"
+            },
+            {
+                "council": "West Lothian",
+                "complaints": " 1769 ",
+                "complaints_per_1000": "10.7",
+                "formal_action_cases": "-",
+                "population": "169470",
+                "year": "2008"
+            }
+        ]
+    }
+]

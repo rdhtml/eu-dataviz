@@ -11,7 +11,7 @@
 
 a.navbar-brand,
 a.navbar-brand:hover {
-    color: #999;
+    font-size: 1.5rem !important;
 }
 
 .inner-menu-container ul {
@@ -25,9 +25,8 @@ a.navbar-brand:hover {
 }
 
 
-
 h1 {
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 .row {
@@ -37,6 +36,7 @@ h1 {
 
 #slider-div {
     width: 50%;
+    margin: 10px 0 0;
 }
 
 .d3-tip {
